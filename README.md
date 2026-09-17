@@ -6,4 +6,5 @@ My first Html and CSS project
 This project is the first project in my developer journey. Here I will practice with HTML & CSS.
 
 **Technologies used:** HTML5, CSS3
-- 🎯 **Goal:** Learn basic web page design.
+- 🎯 **Goal:** Learn basic web page design
+and Programming Languages like C,Python,C++  etc.
